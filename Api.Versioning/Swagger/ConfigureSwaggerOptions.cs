@@ -37,7 +37,7 @@
         {
             var info = new OpenApiInfo()
             {
-                Title = "Feather Forecast API",
+                Title = "Weather Forecast API",
                 Version = description.ApiVersion.ToString(),
                 Description = "A sample application with Swagger, Swashbuckle, and API versioning.",
                 Contact = new OpenApiContact() { Name = "Dimitar Iliev", Email = "dimitar.iliev96@hotmail.com" },
