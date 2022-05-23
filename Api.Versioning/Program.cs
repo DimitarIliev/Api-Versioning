@@ -33,8 +33,6 @@ builder.Services.AddSwaggerGen(x =>
     x.OperationFilter<SwaggerDefaultValues>();
 });
 
-
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
